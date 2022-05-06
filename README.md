@@ -1,15 +1,11 @@
 # line-of-code
 This is a Python script to count line of code under specified directory.
 
-Borrow from https://code.activestate.com/recipes/580709-lines-of-code-loc/
+Borrow from https://code.activestate.com/recipes/580709-lines-of-code-loc/, changed for java source code.
 
-* Author: Bob Yang
-* Create Time: 2022-05-06
-* Description:
-
-Basic Lines-Of-Code counter in Python source files, reporting the
+Basic Lines-Of-Code counter in Java source files, reporting the
 number of blank, comment and source code lines and total number of
-lines in all java files scanned.
+lines in all java files scanned. It also can extract all java source code into one big file.
 
 Usage example:
 
